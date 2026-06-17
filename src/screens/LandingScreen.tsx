@@ -72,7 +72,7 @@ export function LandingScreen() {
             to="/login"
             className="inline-flex items-center gap-1.5 rounded-full bg-slate-950 px-4 py-2 text-sm font-bold text-white shadow-md transition-transform hover:scale-105 active:scale-95"
           >
-            Launch Dashboard <ArrowRight className="h-4 w-4" />
+            Start Earning <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
       </header>
@@ -112,7 +112,7 @@ export function LandingScreen() {
                 to="/login"
                 className="group inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-emerald-600 to-teal-500 px-7 py-4 text-base font-extrabold text-white shadow-lg shadow-emerald-500/25 transition-transform hover:scale-105 active:scale-95"
               >
-                Launch Dashboard
+                Start Earning
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Link>
               <a
@@ -257,7 +257,7 @@ export function LandingScreen() {
             to="/login"
             className="relative mt-8 inline-flex items-center gap-2 rounded-2xl bg-white px-8 py-4 text-base font-extrabold text-emerald-700 shadow-xl transition-transform hover:scale-105 active:scale-95"
           >
-            Launch Dashboard <ArrowRight className="h-5 w-5" />
+            Start Earning <ArrowRight className="h-5 w-5" />
           </Link>
         </div>
       </section>

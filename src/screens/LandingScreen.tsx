@@ -69,7 +69,7 @@ export function LandingScreen() {
             <a href="#cta" className="transition-colors hover:text-slate-950">Get started</a>
           </nav>
           <Link
-            to="/login"
+            to="/signup"
             className="inline-flex items-center gap-1.5 rounded-full bg-slate-950 px-4 py-2 text-sm font-bold text-white shadow-md transition-transform hover:scale-105 active:scale-95"
           >
             Start Earning <ArrowRight className="h-4 w-4" />
@@ -109,7 +109,7 @@ export function LandingScreen() {
 
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <Link
-                to="/login"
+                to="/signup"
                 className="group inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-emerald-600 to-teal-500 px-7 py-4 text-base font-extrabold text-white shadow-lg shadow-emerald-500/25 transition-transform hover:scale-105 active:scale-95"
               >
                 Start Earning
@@ -218,7 +218,7 @@ export function LandingScreen() {
             </ul>
 
             <Link
-              to="/login"
+              to="/signup"
               className="mt-10 inline-flex items-center gap-2 rounded-full bg-slate-950 px-7 py-4 text-base font-extrabold text-white shadow-xl transition-transform hover:scale-105 active:scale-95"
             >
               Try it now <ArrowRight className="h-5 w-5" />
@@ -254,7 +254,7 @@ export function LandingScreen() {
             Open your account, fund from M-Pesa, and start tracking growth from your phone.
           </p>
           <Link
-            to="/login"
+            to="/signup"
             className="relative mt-8 inline-flex items-center gap-2 rounded-2xl bg-white px-8 py-4 text-base font-extrabold text-emerald-700 shadow-xl transition-transform hover:scale-105 active:scale-95"
           >
             Start Earning <ArrowRight className="h-5 w-5" />
